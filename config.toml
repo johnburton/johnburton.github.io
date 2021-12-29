@@ -1,3 +1,4 @@
+publishDir = "docs"
 baseurl = "https://jb9.uk"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
